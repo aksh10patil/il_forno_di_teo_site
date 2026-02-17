@@ -25,7 +25,7 @@ const TestimonialSection = () => {
                     <div className="mt-10 flex flex-col items-center">
                         {/* Avatar "Sticker" */}
                         <div className="w-16 h-16 rounded-full bg-gray-300 border-2 border-white shadow-md mb-4 overflow-hidden">
-                            <img src="/api/placeholder/100/100" alt="Customer" className="object-cover w-full h-full" />
+                            <img src="/women.jpg" alt="Customer" className="object-cover w-full h-full" />
                         </div>
 
                         <cite className="not-italic flex flex-col items-center">

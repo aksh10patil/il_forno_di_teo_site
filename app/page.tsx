@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main>
+      <main className="flex-grow bg-grid-pattern">
         <HeroSection />
         <FeaturesSection />
         <MenuSection />
